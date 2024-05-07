@@ -1,10 +1,10 @@
 # Data Scientist
 
-### About me
+## About me
 #### Hello, I'm Adam!
 #### I have an aspiring Data Scientist currently studying undertaking a level 6 Data Science degree with BPP
 
-Throughout my young life I always enjoyed working with numbers and patterns
+Throughout my young life I always enjoyed working with numbers and patterns, eagerly awaiting maths class and avidly playing puzzle games at home. This interest in statistics and data has lead my career path heavily and Im still enjoying it till this day!
 
 ### Things I can do
 
