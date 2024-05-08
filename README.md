@@ -21,4 +21,4 @@ I started off my journey into data science by working at an NHS Acute trust as a
 
 ### Recent Data Science Projects
 
-[Lifestyle factors, health metrics and sleep disorder prevalence](github.com/AdamHawksworthBPP/Sleep_Disorder_Prevalence)
+[Lifestyle factors, health metrics and sleep disorder prevalence](https://github.com/AdamHawksworthBPP/Sleep_Disorder_Prevalence)
